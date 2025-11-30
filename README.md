@@ -1,0 +1,2 @@
+# Mapty-project
+Mapty is a workout-tracking web application that uses geolocation and interactive maps to let users log running and cycling workouts directly on a map. It records details like distance, duration, pace, speed, and location, storing all data locally so workouts remain even after a page reload. The project demonstrates OOP in JavaScript, modular code structure, map APIs, and real-world application logic.
